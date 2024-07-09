@@ -1,12 +1,11 @@
 # --------------------------------------------------- // System
-# downgrade                                            # downgrade packages
-# trash-cli-git                                        # cli to manage trash files
-# libinput-gestures                                    # actions touchpad gestures using libinput
-# gestures                                             # gui for libinput-gestures
+timeshift
+grub-btrfs
+ttf-jetbrains-mono-nerd
 
 # --------------------------------------------------- // Dependencies
 xdg-desktop-portal-gtk                                 # xdg desktop portal using gtk
-# emote                                                # emoji picker gtk3
+
 
 # --------------------------------------------------- // Gaming
 steam                                                  # gaming platform
@@ -16,9 +15,8 @@ gamescope                                            # micro-compositor for gami
 
 # --------------------------------------------------- // Music
 cava                                                   # audio visualizer
-# spotify                                                # proprietary music streaming service
-# spicetify-cli                                          # cli to customize spotify client
+
 
 # --------------------------------------------------- // Apps
-# neovim                                               # vim based text editor
+
 nano
