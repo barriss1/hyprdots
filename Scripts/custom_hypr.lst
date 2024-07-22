@@ -26,7 +26,7 @@ waybar                                                 # system bar
 swww                                                   # wallpaper
 swaylock                                  # lock screen
 wlogout                                                # logout menu
-grimblast-git                                          # screenshot tool
+grim                                       # screenshot tool
 hyprpicker                                             # color picker
 slurp                                                  # region select for screenshot/screenshare
 swappy                                                 # screenshot editor
