@@ -9,8 +9,7 @@ wireplumber                                            # pipewire session manage
 pavucontrol                                            # pulseaudio volume control
 pamixer                                                # pulseaudio cli mixer
 networkmanager                                         # network manager
-network-manager-applet                                 # network manager system tray utility
-brightnessctl                                          # screen brightness control
+network-manager-applet                                 # network manager system tray utility                                        
 udiskie                                                # manage removable media
 
 # --------------------------------------------------- // Display Manager
