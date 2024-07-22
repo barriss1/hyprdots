@@ -1,7 +1,14 @@
 timeshift
 grub-btrfs
 ttf-jetbrains-mono-nerd
-xdg-desktop-portal-gtk                               
 steam                                                 
 gamemode                                            
 nano
+wireguard-tools
+egl-wayland
+wayland-protocols
+lib32-nvidia-utils
+libva-nvidia-driver
+wget
+curl
+git
